@@ -36,4 +36,4 @@ O NBZ Bot foi criado para auxiliar na organização do servidor e terá recursos
 
 ### 👑 NBZ — Nobreza
 
-**A nova era da Nobreza.**
+
